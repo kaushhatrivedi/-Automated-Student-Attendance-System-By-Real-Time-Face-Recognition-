@@ -47,6 +47,6 @@ After the face recognition the code will automatically create an entry of the th
 <li>datetime</li>
 <li>openpyxl</li>
 <li>tkinter</li>
-<li>xlrd</li>
+<li>requests</li>
  <li>os/li>
 <li>shutil</li>
