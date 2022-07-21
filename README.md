@@ -41,10 +41,12 @@ After the face recognition the code will automatically create an entry of the th
 <li>Numpy</li>
 <li>csv</li>
 <li>Pilow</li>
-<li>smtplib</li>
-<li>calender</li>
-<li>holidays</li>
+<li>cv2</li>
+<li>time</li>
+<li>pyttsx3</li>
 <li>datetime</li>
 <li>openpyxl</li>
 <li>tkinter</li>
 <li>xlrd</li>
+ <li>os/li>
+<li>shutil</li>
