@@ -36,7 +36,7 @@ After the face recognition the code will automatically create an entry of the th
 <br />
 <h2> Library Used</h2>
 <ul>
- <li>OpenCV-python</li>
+ <li>OpenCV-contrib-python</li>
 <li>Pandas</li>
 <li>Numpy</li>
 <li>csv</li>
