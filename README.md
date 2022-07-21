@@ -71,6 +71,11 @@ After the face recognition the code will automatically create an entry of the th
   <li>After training model click on Automatic Attendance ,you have to enter the subject name and then it can fill attendace by your face using our trained model.</li>
  <li>Create a .csv file with name of the file as the subject name</li>
  <li>Therefore the entries will be made as soon as face is recognised</li>
- <li>You can view the attendance after clicking View Attendance button. It will show record in tabular forma</li>
+ <li>You can view the attendance after clicking View Attendance button. It will show record in tabular format</li>
 </ul>
-
+<br  />
+<br  />
+<h2>Project Snapshot</h2>
+<img src="C:\Users\jignesh\Desktop\6th sem\internship project\Untitled.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
