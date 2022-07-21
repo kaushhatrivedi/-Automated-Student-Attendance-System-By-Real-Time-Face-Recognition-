@@ -41,6 +41,8 @@ After the face recognition the code will automatically create an entry of the th
 <li>Numpy</li>
 <li>csv</li>
 <li>Pilow</li>
+
+
 <li>cv2</li>
 <li>time</li>
 <li>pyttsx3</li>
@@ -49,4 +51,10 @@ After the face recognition the code will automatically create an entry of the th
 <li>tkinter</li>
 <li>requests</li>
  <li>os/li>
-<li>shutil</li>
+<li>shutil</li></ul>
+<br />
+<br />
+<h2>Instructions</h2>
+<ul>
+<li>Download or clone my Repository to your device</li>
+</ul>
