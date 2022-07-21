@@ -31,4 +31,20 @@ LBPH is one of the easiest face recognition algorithms. It can represent local f
  <br />
  
  <h2>Updating record in Excel</h2>
-After the face recognition the code will automatically create an entry of the the student into the excel file . 
+After the face recognition the code will automatically create an entry of the the student into the excel file .
+<br />
+<br />
+<h2> Library Used</h2>
+<ul>
+ <li>OpenCV-python</li>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>csv</li>
+<li>Pilow</li>
+<li>smtplib</li>
+<li>calender</li>
+<li>holidays</li>
+<li>datetime</li>
+<li>openpyxl</li>
+<li>tkinter</li>
+<li>xlrd</li>
