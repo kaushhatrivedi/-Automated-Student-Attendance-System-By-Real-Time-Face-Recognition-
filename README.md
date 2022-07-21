@@ -57,4 +57,7 @@ After the face recognition the code will automatically create an entry of the th
 <h2>Instructions</h2>
 <ul>
 <li>Download or clone my Repository to your device</li>
+ <li>Create a TrainingImage folder in a project folder.</li>
+<li>Open attendance.ipynb and automaticAttendance.ipynb, change all the path accoriding to your system</li>
+ <li>Run attandance.py file</li>
 </ul>
