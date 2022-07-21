@@ -76,6 +76,5 @@ After the face recognition the code will automatically create an entry of the th
 <br  />
 <br  />
 <h2>Project Snapshot</h2>
-<img src="C:\Users\jignesh\Desktop\6th sem\internship project\Untitled.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+
+    ![alt text]("C:\Users\jignesh\Desktop\6th sem\internship project\Untitled.png")
