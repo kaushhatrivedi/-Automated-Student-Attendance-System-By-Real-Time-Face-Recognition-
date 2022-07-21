@@ -9,6 +9,7 @@ Numpy(pip install numpy)
 --Notes--
 It will require high processing power(I have 8 GB RAM & 1 GB Nvidia GT740M Graphic Card)
 Noisy image can reduce your accuracy so quality of images matter.
+Check that your device cam is working properly.
 Make sure opencv-python is uninstalled as both  opencv-contrib-python and opencv-python cause conflict.
 You can download the haarcascade_frontalface_default.xml by cloning or from https://github.com/opencv/opencv/tree/master/data/haarcascades.
 you need to download Trainner.yml file from:https://github.com/codingforentrepreneurs/OpenCV-Python-Series/blob/master/src/recognizers/face-trainner.yml
