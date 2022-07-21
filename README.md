@@ -76,6 +76,21 @@ After the face recognition the code will automatically create an entry of the th
 <br  />
 <br  />
 <h2>Project Snapshot</h2>
+GUI
+<img src="https://user-images.githubusercontent.com/100775652/180163105-e55fd2ec-4885-4b21-96ec-2188352f37da.png">
 
-    ![Untitled](https://user-images.githubusercontent.com/100775652/180162505-880337c3-1273-49d9-af6e-bbe7a1aba5d5.png)
+<br />
+After clicking on Register a new student
+<br />
+<img src="https://user-images.githubusercontent.com/100775652/180164544-9e80e7b7-a1b1-421a-94da-5f55619cd331.png">
+
+<br />
+
+then train the image 
+after click on take attendance and enter the subject
+![Untitled 2png](https://user-images.githubusercontent.com/100775652/180166192-1b1832b8-f068-494c-8a76-99eecfe2acfc.png)
+<br />
+this will mark youe attendance  
+click on view attendance and enter subject
+that will show all the data .
 
