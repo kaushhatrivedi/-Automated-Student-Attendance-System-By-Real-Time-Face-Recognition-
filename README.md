@@ -77,4 +77,5 @@ After the face recognition the code will automatically create an entry of the th
 <br  />
 <h2>Project Snapshot</h2>
 
-    ![alt text]("C:\Users\jignesh\Desktop\6th sem\internship project\Untitled.png")
+    ![Untitled](https://user-images.githubusercontent.com/100775652/180162505-880337c3-1273-49d9-af6e-bbe7a1aba5d5.png)
+
